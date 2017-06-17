@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # OpenCart
 
 ## Overview
@@ -76,6 +75,3 @@ Please read the installation instructions included in the repository or download
 - [How to documents](http://docs.opencart.com/)
 - [Newsletter](http://newsletter.opencart.com/h/r/B660EBBE4980C85C)
 - [User Voice suggestions](http://opencart.uservoice.com)
-=======
-# emi-libros
->>>>>>> a17aa1d5d28cdf514a46927d480b74c2ecf042e1
