@@ -11,7 +11,6 @@
         "leafo/scssphp": "0.0.12",
         "divido/divido-php": ">=1.1.1",
         "klarna/kco_rest": "^2.2",
-        "php": ">=5.4.0",
-        "ext-mcrypt" : "*"
+        "php": "^5.5.0"
     }
 }
